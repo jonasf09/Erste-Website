@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(Img/Naturumgebung.jpng.jpeg) no-repeat;
+    background: url(Login/Img/Naturumgebung.jpng.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
